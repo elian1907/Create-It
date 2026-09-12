@@ -1,0 +1,66 @@
+{
+  "id": "avant-apres-10",
+  "version": 1,
+  "name": "Avant / Après 10 s",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "slots": [
+    {
+      "id": "plan-1",
+      "label": "Avant",
+      "role": "before",
+      "frames": 90,
+      "tags": [],
+      "selection": "auto",
+      "mediaId": "",
+      "matchSlotId": "",
+      "pairId": "",
+      "variantGroupId": "",
+      "inPoint": null,
+      "speed": 1,
+      "shortPolicy": "reject",
+      "crop": null,
+      "transition": {
+        "type": "cut",
+        "frames": 0
+      },
+      "originalAudio": false
+    },
+    {
+      "id": "plan-2",
+      "label": "Révélation",
+      "role": "after",
+      "frames": 210,
+      "tags": [],
+      "selection": "auto",
+      "mediaId": "",
+      "matchSlotId": "",
+      "pairId": "",
+      "variantGroupId": "",
+      "inPoint": null,
+      "speed": 1,
+      "shortPolicy": "reject",
+      "crop": null,
+      "transition": {
+        "type": "cut",
+        "frames": 0
+      },
+      "originalAudio": false
+    }
+  ],
+  "music": null,
+  "texts": [],
+  "markers": [
+    90
+  ],
+  "safeArea": {
+    "top": 0.08,
+    "bottom": 0.18,
+    "left": 0.08,
+    "right": 0.08
+  },
+  "pairMode": "free",
+  "preferLeastUsed": true,
+  "createdAt": "2026-09-12T18:36:49.445Z"
+}

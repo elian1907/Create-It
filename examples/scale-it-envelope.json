@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-12T19:03:11.157Z",
+  "run": {
+    "id": "scale-lot-exemple",
+    "kind": "video",
+    "modelId": "scale-modele-exemple",
+    "modelName": "Révélation externe 12 s",
+    "modelSnapshot": {
+      "id": "scale-modele-exemple",
+      "name": "Révélation externe 12 s",
+      "kind": "video",
+      "duration": 12,
+      "music": "Musique à associer · révélation à 4 s",
+      "cta": "Découvre Loslo",
+      "slots": [
+        {
+          "label": "Avant",
+          "category": "before",
+          "duration": 4
+        },
+        {
+          "label": "Révélation",
+          "category": "after",
+          "duration": 5
+        },
+        {
+          "label": "Conclusion",
+          "category": "any",
+          "duration": 3
+        }
+      ]
+    },
+    "items": [
+      {
+        "id": "scale-item-exemple",
+        "avatarId": "scale-avatar-exemple",
+        "avatarName": "Avatar à associer",
+        "status": "simulated",
+        "outputIds": [],
+        "posts": [
+          {
+            "platform": "tiktok",
+            "handle": "",
+            "status": "waiting",
+            "url": ""
+          },
+          {
+            "platform": "instagram",
+            "handle": "",
+            "status": "waiting",
+            "url": ""
+          }
+        ]
+      }
+    ],
+    "paused": true,
+    "demo": true
+  },
+  "model": {
+    "id": "scale-modele-exemple",
+    "name": "Révélation externe 12 s",
+    "kind": "video",
+    "duration": 12,
+    "music": "Musique à associer · révélation à 4 s",
+    "cta": "Découvre Loslo",
+    "slots": [
+      {
+        "label": "Avant",
+        "category": "before",
+        "duration": 4
+      },
+      {
+        "label": "Révélation",
+        "category": "after",
+        "duration": 5
+      },
+      {
+        "label": "Conclusion",
+        "category": "any",
+        "duration": 3
+      }
+    ]
+  },
+  "avatars": [
+    {
+      "id": "scale-avatar-exemple",
+      "name": "Avatar à associer",
+      "language": "FR",
+      "folder": ""
+    }
+  ],
+  "media": [],
+  "note": "Exemple technique. Associer un avatar et un modèle locaux. Ne déclenche aucun rendu à l’import."
+}

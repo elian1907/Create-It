@@ -1,0 +1,41 @@
+{
+  "name": "create-it",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "dev": "tsx watch server/index.ts --dev",
+    "build": "tsc --noEmit && vite build",
+    "start": "tsx server/index.ts",
+    "test": "vitest run",
+    "test:integration": "tsx tests/integration.ts",
+    "demo": "tsx scripts/demo.ts",
+    "cli": "tsx server/cli.ts",
+    "check": "npm run build && npm test && npm run test:integration"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "express": "^5.1.0",
+    "lucide-react": "^0.468.0",
+    "multer": "^2.0.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tsx": "^4.20.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "prettier": "^3.9.6",
+    "typescript": "^5.9.0",
+    "vite": "^7.1.0",
+    "vitest": "^4.1.11"
+  }
+}

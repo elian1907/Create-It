@@ -1,0 +1,17 @@
+{
+  "name": "Premier export technique",
+  "avatarIds": [
+    "demo-technique"
+  ],
+  "templateIds": [
+    "demo-revelation"
+  ],
+  "count": 1,
+  "seed": "premier-export",
+  "language": "FR",
+  "profile": "final",
+  "demo": true,
+  "exportRootId": "default",
+  "externalRunId": "",
+  "externalItems": {}
+}

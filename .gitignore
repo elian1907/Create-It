@@ -1,0 +1,19 @@
+node_modules/
+dist/
+data/
+.env*
+!.env.example
+*.log
+playwright-report/
+test-results/
+
+# Local caches, credentials and databases
+.DS_Store
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.pem
+*.p8
+*.key
+*.zip

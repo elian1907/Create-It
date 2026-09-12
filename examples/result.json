@@ -1,0 +1,33 @@
+{
+  "taskId": "ef6d7122-9dcd-4143-9f85-2032a3995e09",
+  "externalRunId": "",
+  "externalItemId": "",
+  "avatar": {
+    "id": "demo-technique",
+    "name": "Démo technique",
+    "scaleItId": ""
+  },
+  "template": {
+    "id": "demo-revelation",
+    "version": 1,
+    "name": "Démo technique · Révélation 12 s"
+  },
+  "status": "completed",
+  "demo": true,
+  "profile": "final",
+  "path": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/video.mp4",
+  "thumbnail": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/thumbnail.jpg",
+  "recipePath": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/recipe.json",
+  "file": {
+    "size": 1679748,
+    "duration": 12,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 360,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "hash": "fc0d23475fbe0bf647ff3b8003450cf6b9187cea31afde639afac72d477b0bc1"
+  },
+  "validatedAt": "2026-09-12T18:36:55.047Z"
+}

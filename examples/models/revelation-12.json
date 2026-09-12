@@ -1,0 +1,102 @@
+{
+  "id": "revelation-12",
+  "version": 1,
+  "name": "Révélation 12 s",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "slots": [
+    {
+      "id": "plan-1",
+      "label": "Avant",
+      "role": "before",
+      "frames": 120,
+      "tags": [],
+      "selection": "auto",
+      "mediaId": "",
+      "matchSlotId": "",
+      "pairId": "",
+      "variantGroupId": "",
+      "inPoint": null,
+      "speed": 1,
+      "shortPolicy": "reject",
+      "crop": null,
+      "transition": {
+        "type": "flash",
+        "frames": 6
+      },
+      "originalAudio": false
+    },
+    {
+      "id": "plan-2",
+      "label": "Révélation",
+      "role": "after",
+      "frames": 150,
+      "tags": [],
+      "selection": "auto",
+      "mediaId": "",
+      "matchSlotId": "",
+      "pairId": "",
+      "variantGroupId": "",
+      "inPoint": null,
+      "speed": 1,
+      "shortPolicy": "reject",
+      "crop": null,
+      "transition": {
+        "type": "cut",
+        "frames": 0
+      },
+      "originalAudio": false
+    },
+    {
+      "id": "plan-3",
+      "label": "Après · conclusion",
+      "role": "after",
+      "frames": 90,
+      "tags": [],
+      "selection": "auto",
+      "mediaId": "",
+      "matchSlotId": "",
+      "pairId": "",
+      "variantGroupId": "",
+      "inPoint": null,
+      "speed": 1,
+      "shortPolicy": "reject",
+      "crop": null,
+      "transition": {
+        "type": "cut",
+        "frames": 0
+      },
+      "originalAudio": false
+    }
+  ],
+  "music": null,
+  "texts": [
+    {
+      "id": "cta",
+      "text": "Découvre Loslo",
+      "startFrame": 270,
+      "endFrame": 360,
+      "x": 0.5,
+      "y": 0.72,
+      "size": 62,
+      "color": "#ffffff",
+      "outline": "#000000",
+      "outlineWidth": 4,
+      "shadow": true,
+      "font": "Noto Sans"
+    }
+  ],
+  "markers": [
+    120
+  ],
+  "safeArea": {
+    "top": 0.08,
+    "bottom": 0.18,
+    "left": 0.08,
+    "right": 0.08
+  },
+  "pairMode": "free",
+  "preferLeastUsed": true,
+  "createdAt": "2026-09-12T18:36:49.444Z"
+}

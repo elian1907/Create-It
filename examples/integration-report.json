@@ -1,0 +1,13 @@
+{
+  "checks": 19,
+  "ffmpeg": "ffmpeg version 9.0.1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "node": "v24.13.0",
+  "platform": "darwin",
+  "workspace": "/example/integration",
+  "artifacts": [
+    "/example/integration/exports/cut/video.mp4",
+    "/example/integration/exports/fade/video.mp4",
+    "/example/integration/exports/flash/video.mp4"
+  ],
+  "completedAt": "2026-09-12T18:59:46.717Z"
+}

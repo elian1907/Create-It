@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-12T19:03:11.155Z",
+  "results": [
+    {
+      "taskId": "16b2f3c7-d62b-41fa-bd45-9f961a5e5138",
+      "externalRunId": "",
+      "externalItemId": "",
+      "avatar": {
+        "id": "demo-technique",
+        "name": "Démo technique",
+        "scaleItId": ""
+      },
+      "template": {
+        "id": "demo-revelation",
+        "version": 1,
+        "name": "Démo technique · Révélation 12 s"
+      },
+      "status": "completed",
+      "demo": true,
+      "profile": "preview",
+      "path": "/example/create-it/data/exports/apercus/Demo-technique/16b2f3c7-d62b-41fa-bd45-9f961a5e5138/video.mp4",
+      "thumbnail": "/example/create-it/data/exports/apercus/Demo-technique/16b2f3c7-d62b-41fa-bd45-9f961a5e5138/thumbnail.jpg",
+      "recipePath": "/example/create-it/data/exports/apercus/Demo-technique/16b2f3c7-d62b-41fa-bd45-9f961a5e5138/recipe.json",
+      "file": {
+        "size": 1043429,
+        "duration": 12,
+        "width": 360,
+        "height": 640,
+        "fps": 30,
+        "frames": 360,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "hash": "99667b60042a12b8f13e3fbd18f3f35a569aca4df34f74a2105276fb3f3d9043"
+      },
+      "validatedAt": "2026-09-12T18:56:39.396Z"
+    },
+    {
+      "taskId": "1d971de5-7ca1-4899-b8b8-b7755ef58efd",
+      "externalRunId": "",
+      "externalItemId": "",
+      "avatar": {
+        "id": "demo-technique",
+        "name": "Démo technique",
+        "scaleItId": ""
+      },
+      "template": {
+        "id": "transformation-cta-15",
+        "version": 1,
+        "name": "Transformation avec CTA 15 s"
+      },
+      "status": "completed",
+      "demo": true,
+      "profile": "final",
+      "path": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Transformation-avec-CTA-15-s-1d971de5-7ca1-4899-b8b8-b7755ef58efd/video.mp4",
+      "thumbnail": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Transformation-avec-CTA-15-s-1d971de5-7ca1-4899-b8b8-b7755ef58efd/thumbnail.jpg",
+      "recipePath": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Transformation-avec-CTA-15-s-1d971de5-7ca1-4899-b8b8-b7755ef58efd/recipe.json",
+      "file": {
+        "size": 1736977,
+        "duration": 15,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "frames": 450,
+        "videoCodec": "h264",
+        "audioCodec": null,
+        "hash": "71de4e04763c61d06256c6c4da63851f943d8d3cea0478a8f77f470e3a7eb933"
+      },
+      "validatedAt": "2026-09-12T18:40:24.976Z"
+    },
+    {
+      "taskId": "62816fc4-9e61-437f-98de-e606d3c5d2cb",
+      "externalRunId": "",
+      "externalItemId": "",
+      "avatar": {
+        "id": "demo-technique",
+        "name": "Démo technique",
+        "scaleItId": ""
+      },
+      "template": {
+        "id": "avant-apres-10",
+        "version": 1,
+        "name": "Avant / Après 10 s"
+      },
+      "status": "completed",
+      "demo": true,
+      "profile": "final",
+      "path": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Avant-Apres-10-s-62816fc4-9e61-437f-98de-e606d3c5d2cb/video.mp4",
+      "thumbnail": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Avant-Apres-10-s-62816fc4-9e61-437f-98de-e606d3c5d2cb/thumbnail.jpg",
+      "recipePath": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Avant-Apres-10-s-62816fc4-9e61-437f-98de-e606d3c5d2cb/recipe.json",
+      "file": {
+        "size": 1149509,
+        "duration": 10,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "frames": 300,
+        "videoCodec": "h264",
+        "audioCodec": null,
+        "hash": "dd9f3037b51e8b612eea0c8731495dec60c58995a3dab8614b280ec8804495f2"
+      },
+      "validatedAt": "2026-09-12T18:40:20.619Z"
+    },
+    {
+      "taskId": "dff6f8fd-c3eb-45a2-a10f-fa57259f7551",
+      "externalRunId": "",
+      "externalItemId": "",
+      "avatar": {
+        "id": "demo-technique",
+        "name": "Démo technique",
+        "scaleItId": ""
+      },
+      "template": {
+        "id": "revelation-12",
+        "version": 1,
+        "name": "Révélation 12 s"
+      },
+      "status": "completed",
+      "demo": true,
+      "profile": "final",
+      "path": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Revelation-12-s-dff6f8fd-c3eb-45a2-a10f-fa57259f7551/video.mp4",
+      "thumbnail": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Revelation-12-s-dff6f8fd-c3eb-45a2-a10f-fa57259f7551/thumbnail.jpg",
+      "recipePath": "/example/create-it/data/exports/Les-3-modeles-validation-interface-a49a426f/Demo-technique-demo-tec/Revelation-12-s-dff6f8fd-c3eb-45a2-a10f-fa57259f7551/recipe.json",
+      "file": {
+        "size": 1382064,
+        "duration": 12,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "frames": 360,
+        "videoCodec": "h264",
+        "audioCodec": null,
+        "hash": "c4e431424ec660a9f2d8351e081e8a018622cbc7260a90060e9ecdde1d3eb543"
+      },
+      "validatedAt": "2026-09-12T18:40:18.581Z"
+    },
+    {
+      "taskId": "ef6d7122-9dcd-4143-9f85-2032a3995e09",
+      "externalRunId": "",
+      "externalItemId": "",
+      "avatar": {
+        "id": "demo-technique",
+        "name": "Démo technique",
+        "scaleItId": ""
+      },
+      "template": {
+        "id": "demo-revelation",
+        "version": 1,
+        "name": "Démo technique · Révélation 12 s"
+      },
+      "status": "completed",
+      "demo": true,
+      "profile": "final",
+      "path": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/video.mp4",
+      "thumbnail": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/thumbnail.jpg",
+      "recipePath": "/example/create-it/data/exports/Premier-export-technique-f89214b2/Demo-technique-demo-tec/Demo-technique-Revelation-12-s-ef6d7122-9dcd-4143-9f85-2032a3995e09/recipe.json",
+      "file": {
+        "size": 1679748,
+        "duration": 12,
+        "width": 1080,
+        "height": 1920,
+        "fps": 30,
+        "frames": 360,
+        "videoCodec": "h264",
+        "audioCodec": "aac",
+        "hash": "fc0d23475fbe0bf647ff3b8003450cf6b9187cea31afde639afac72d477b0bc1"
+      },
+      "validatedAt": "2026-09-12T18:36:55.047Z"
+    }
+  ]
+}
